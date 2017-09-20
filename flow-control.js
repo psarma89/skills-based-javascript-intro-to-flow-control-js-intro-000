@@ -5,7 +5,7 @@ function basicTeenager(age) {
 }
 
 function teenager(age) {
-  ((13 <= age) && (age <= 19)) ? "You are a teenager!" : "You are not a "
+  ((13 <= age) && (age <= 19)) ? "You are a teenager!" : "You are not a teenager!"
 }
 
 function ageChecker(age) {
