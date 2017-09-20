@@ -28,5 +28,11 @@ function ternaryTeenager(age) {
 }
 
 function switchAge(age) {
-
+  switch (expression) {
+    case expression:
+      
+      break;
+    default:
+      
+  }
 }
